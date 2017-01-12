@@ -1,5 +1,4 @@
 # MeteorProjects
 
-Pushing here my work on tutorials and later projects in Meteor.
+Following a to-do-list application creation [tutorial](https://www.meteor.com/tutorials/react/creating-an-app), with React approach.
 
-For learning purposes.
