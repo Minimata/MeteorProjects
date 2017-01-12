@@ -1,0 +1,3 @@
+# MeteorProjects
+
+Holding multiple MeteorProjects.
