@@ -1,0 +1,15 @@
+
+<head>
+    <title>App</title>
+</head>
+<body>
+<template name="MainLayout">
+    <div>
+        {{> navbar}}
+        <div className="container">
+        {{> yield}}
+    </div>
+    {{> footer}}
+    </div>
+</template>
+</body>
